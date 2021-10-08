@@ -70,3 +70,5 @@ _Exit:_
     "d": "grape"
 }
 ```
+
+For more information, see: https://www.postgresql.org/docs/12/functions-json.html
